@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/unique-clothing-app/static/css/main.24d136a6.chunk.css",
-    "main.js": "/unique-clothing-app/static/js/main.6ce6365d.chunk.js",
-    "main.js.map": "/unique-clothing-app/static/js/main.6ce6365d.chunk.js.map",
+    "main.js": "/unique-clothing-app/static/js/main.1c8b2759.chunk.js",
+    "main.js.map": "/unique-clothing-app/static/js/main.1c8b2759.chunk.js.map",
     "runtime-main.js": "/unique-clothing-app/static/js/runtime-main.7203182f.js",
     "runtime-main.js.map": "/unique-clothing-app/static/js/runtime-main.7203182f.js.map",
     "static/js/2.e30a232f.chunk.js": "/unique-clothing-app/static/js/2.e30a232f.chunk.js",
     "static/js/2.e30a232f.chunk.js.map": "/unique-clothing-app/static/js/2.e30a232f.chunk.js.map",
     "index.html": "/unique-clothing-app/index.html",
-    "precache-manifest.e33fc67a72fcead25b0824952bcd88ad.js": "/unique-clothing-app/precache-manifest.e33fc67a72fcead25b0824952bcd88ad.js",
+    "precache-manifest.22b543796c1c2bbf961fa6f3a2b2b957.js": "/unique-clothing-app/precache-manifest.22b543796c1c2bbf961fa6f3a2b2b957.js",
     "service-worker.js": "/unique-clothing-app/service-worker.js",
     "static/css/main.24d136a6.chunk.css.map": "/unique-clothing-app/static/css/main.24d136a6.chunk.css.map",
     "static/js/2.e30a232f.chunk.js.LICENSE.txt": "/unique-clothing-app/static/js/2.e30a232f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7203182f.js",
     "static/js/2.e30a232f.chunk.js",
     "static/css/main.24d136a6.chunk.css",
-    "static/js/main.6ce6365d.chunk.js"
+    "static/js/main.1c8b2759.chunk.js"
   ]
 }

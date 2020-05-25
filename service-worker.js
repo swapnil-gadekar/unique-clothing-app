@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/unique-clothing-app/precache-manifest.e33fc67a72fcead25b0824952bcd88ad.js"
+  "/unique-clothing-app/precache-manifest.22b543796c1c2bbf961fa6f3a2b2b957.js"
 );
 
 self.addEventListener('message', (event) => {

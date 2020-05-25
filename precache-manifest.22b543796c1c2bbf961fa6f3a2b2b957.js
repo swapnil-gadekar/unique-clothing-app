@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82c7ec53806e1c61790d5727e0aa88ac",
+    "revision": "de47cdab14102bda15dc6aec9f5b6f28",
     "url": "/unique-clothing-app/index.html"
   },
   {
-    "revision": "92c42fac3ae705ce0aff",
+    "revision": "9161b4bf86311e608511",
     "url": "/unique-clothing-app/static/css/main.24d136a6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unique-clothing-app/static/js/2.e30a232f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92c42fac3ae705ce0aff",
-    "url": "/unique-clothing-app/static/js/main.6ce6365d.chunk.js"
+    "revision": "9161b4bf86311e608511",
+    "url": "/unique-clothing-app/static/js/main.1c8b2759.chunk.js"
   },
   {
     "revision": "3613a1087b28a0691900",
