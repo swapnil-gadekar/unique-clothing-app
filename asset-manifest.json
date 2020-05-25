@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/unique-clothing/static/css/main.24d136a6.chunk.css",
-    "main.js": "/unique-clothing/static/js/main.6ce6365d.chunk.js",
-    "main.js.map": "/unique-clothing/static/js/main.6ce6365d.chunk.js.map",
-    "runtime-main.js": "/unique-clothing/static/js/runtime-main.50932777.js",
-    "runtime-main.js.map": "/unique-clothing/static/js/runtime-main.50932777.js.map",
-    "static/js/2.e30a232f.chunk.js": "/unique-clothing/static/js/2.e30a232f.chunk.js",
-    "static/js/2.e30a232f.chunk.js.map": "/unique-clothing/static/js/2.e30a232f.chunk.js.map",
-    "index.html": "/unique-clothing/index.html",
-    "precache-manifest.7c7d2f912d9380ecfc25c9f21bff7acd.js": "/unique-clothing/precache-manifest.7c7d2f912d9380ecfc25c9f21bff7acd.js",
-    "service-worker.js": "/unique-clothing/service-worker.js",
-    "static/css/main.24d136a6.chunk.css.map": "/unique-clothing/static/css/main.24d136a6.chunk.css.map",
-    "static/js/2.e30a232f.chunk.js.LICENSE.txt": "/unique-clothing/static/js/2.e30a232f.chunk.js.LICENSE.txt",
-    "static/media/cart.30f07071.svg": "/unique-clothing/static/media/cart.30f07071.svg",
-    "static/media/logo.ed28accb.svg": "/unique-clothing/static/media/logo.ed28accb.svg"
+    "main.css": "/unique-clothing-app/static/css/main.24d136a6.chunk.css",
+    "main.js": "/unique-clothing-app/static/js/main.6ce6365d.chunk.js",
+    "main.js.map": "/unique-clothing-app/static/js/main.6ce6365d.chunk.js.map",
+    "runtime-main.js": "/unique-clothing-app/static/js/runtime-main.7203182f.js",
+    "runtime-main.js.map": "/unique-clothing-app/static/js/runtime-main.7203182f.js.map",
+    "static/js/2.e30a232f.chunk.js": "/unique-clothing-app/static/js/2.e30a232f.chunk.js",
+    "static/js/2.e30a232f.chunk.js.map": "/unique-clothing-app/static/js/2.e30a232f.chunk.js.map",
+    "index.html": "/unique-clothing-app/index.html",
+    "precache-manifest.e33fc67a72fcead25b0824952bcd88ad.js": "/unique-clothing-app/precache-manifest.e33fc67a72fcead25b0824952bcd88ad.js",
+    "service-worker.js": "/unique-clothing-app/service-worker.js",
+    "static/css/main.24d136a6.chunk.css.map": "/unique-clothing-app/static/css/main.24d136a6.chunk.css.map",
+    "static/js/2.e30a232f.chunk.js.LICENSE.txt": "/unique-clothing-app/static/js/2.e30a232f.chunk.js.LICENSE.txt",
+    "static/media/cart.30f07071.svg": "/unique-clothing-app/static/media/cart.30f07071.svg",
+    "static/media/logo.ed28accb.svg": "/unique-clothing-app/static/media/logo.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.50932777.js",
+    "static/js/runtime-main.7203182f.js",
     "static/js/2.e30a232f.chunk.js",
     "static/css/main.24d136a6.chunk.css",
     "static/js/main.6ce6365d.chunk.js"
